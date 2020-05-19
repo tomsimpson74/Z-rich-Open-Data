@@ -1,0 +1,6 @@
+﻿Sie haben folgende Bestellung aufgegeben: 
+Name des Geodatensatzes: Standorte der automatischen Fuss- und Velozählungen 
+Name des Ausschnittes: stzh
+Ausschnitt (falls definiert): 2676224.694, 1241584.105, 2689665.812,1254306.233 
+Zeitpunkt der Bearbeitung: 14.05.2020 - 23:11 
+
